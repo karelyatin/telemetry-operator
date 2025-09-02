@@ -57,6 +57,8 @@ github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnr
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
 github.com/k8snetworkplumbingwg/network-attachment-definition-client v1.7.7 h1:z4P744DR+PIpkjwXSEc6TvN3L6LVzmUquFgmNm8wSUc=
 github.com/k8snetworkplumbingwg/network-attachment-definition-client v1.7.7/go.mod h1:CM7HAH5PNuIsqjMN0fGc1ydM74Uj+0VZFhob620nklw=
+github.com/karelyatin/ovn-operator/api v0.0.0-20250902114712-70cf51afcb45 h1:zQR1vpC8p3kSDbCAGyP3sFlKEkERhkGWH6fmQtGHJGg=
+github.com/karelyatin/ovn-operator/api v0.0.0-20250902114712-70cf51afcb45/go.mod h1:K6h5wmoAsxwzq7VSItwMg36RVsexLidHNNuSfK5mbSc=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
@@ -86,8 +88,8 @@ github.com/openstack-k8s-operators/keystone-operator/api v0.6.1-0.20250818180001
 github.com/openstack-k8s-operators/keystone-operator/api v0.6.1-0.20250818180001-057253e3d233/go.mod h1:qevkmDP/Yr7FTM0ZVe2fABjSjrfkkdZkYeMho71OVG0=
 github.com/openstack-k8s-operators/lib-common/modules/ansible v0.6.1-0.20250730071847-837b07f8d72f h1:7w9WseH9LSKnLX3UW1AfWPaozN7fimdVoUtOYHnsQKY=
 github.com/openstack-k8s-operators/lib-common/modules/ansible v0.6.1-0.20250730071847-837b07f8d72f/go.mod h1:0bajRHochTUT6Ecfriw27l3vL0yezVrnUmt3bcIpu4w=
-github.com/openstack-k8s-operators/lib-common/modules/common v0.6.1-0.20250730071847-837b07f8d72f h1:DW8aNjEtDFrWiZ6vWuOXwdRB4eBD0n+bA9foQkOEx6U=
-github.com/openstack-k8s-operators/lib-common/modules/common v0.6.1-0.20250730071847-837b07f8d72f/go.mod h1:P+7F1wiwZUxOy4myYXFyc/uBtGATDFpk3yAllXe1Vzk=
+github.com/openstack-k8s-operators/lib-common/modules/common v0.6.1-0.20250823121217-7e1cd2e3dd03 h1:9VanDdvg1APf9B1nzGElLvWr6dM5GsSayMLSV/nJZnE=
+github.com/openstack-k8s-operators/lib-common/modules/common v0.6.1-0.20250823121217-7e1cd2e3dd03/go.mod h1:Z+rmtn3qhuPZfx2EDVmloUh2MkYbvDMgcpJneRYerS0=
 github.com/openstack-k8s-operators/lib-common/modules/openstack v0.6.1-0.20250730071847-837b07f8d72f h1:nGYLHcpM7EjiSzN4bmiLZbxty9u0k0Qzvkqn+1s1TF0=
 github.com/openstack-k8s-operators/lib-common/modules/openstack v0.6.1-0.20250730071847-837b07f8d72f/go.mod h1:nachFP0Yicw/e8ZlqZzvnBN6w9kjMcnqrhaDw36PGjw=
 github.com/openstack-k8s-operators/lib-common/modules/storage v0.6.1-0.20250730071847-837b07f8d72f h1:/e/jQu3GThcystmZFyzlQq6nOKpORQq84HhcbkKxAq4=
